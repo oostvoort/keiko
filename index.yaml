@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  keiko:
+  - apiVersion: v2
+    appVersion: 0.0.1
+    created: "2023-10-19T00:28:58.990310195Z"
+    description: A Helm chart for Kubernetes
+    digest: 4e5240f50758034255b608adcd9ad7d7b1618d2b5e6b58f5b466722e775c186c
+    name: keiko
+    type: application
+    urls:
+    - https://github.com/oostvoort/keiko/releases/download/keiko-0.0.1/keiko-0.0.1.tgz
+    version: 0.0.1
+generated: "2023-10-19T00:28:58.990319096Z"
